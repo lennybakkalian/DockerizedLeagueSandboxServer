@@ -6,6 +6,8 @@ Run a Sandboxed LeagueOfLegends server without installing a IDE or SDK's
 1. [Git](https://git-scm.com/download/win)
 2. [Docker](https://docs.docker.com/docker-for-windows/install/)
 
+## Configuration
+Edit the GameInfo.json file
 
 ## Run
 Just execute `startServer.bat`
